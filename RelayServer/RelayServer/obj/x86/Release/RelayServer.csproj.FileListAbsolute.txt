@@ -1,0 +1,6 @@
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\bin\Release\RelayServer.exe.config
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\bin\Release\RelayServer.exe
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\bin\Release\RelayServer.pdb
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.csprojResolveAssemblyReference.cache
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.exe
+C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.pdb
