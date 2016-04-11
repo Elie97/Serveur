@@ -4,3 +4,9 @@ C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\bin\Relea
 C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.csprojResolveAssemblyReference.cache
 C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.exe
 C:\Users\élie\Desktop\Projet Intégrateur\Lan\RelayServer\RelayServer\obj\x86\Release\RelayServer.pdb
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\bin\Release\RelayServer.exe.config
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\obj\x86\Release\RelayServer.exe
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\obj\x86\Release\RelayServer.pdb
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\bin\Release\RelayServer.exe
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\bin\Release\RelayServer.pdb
+C:\Users\201448183\Documents\GitHub\Serveur\RelayServer\RelayServer\obj\x86\Release\RelayServer.csprojResolveAssemblyReference.cache

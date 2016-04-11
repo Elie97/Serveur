@@ -6,7 +6,7 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="Port" Type="System.Int32" Scope="Application">
-      <Value Profile="(Default)">1490</Value>
+      <Value Profile="(Default)">5004</Value>
     </Setting>
     <Setting Name="ReadBufferSize" Type="System.Int32" Scope="Application">
       <Value Profile="(Default)">2048</Value>
@@ -27,7 +27,7 @@
       <Value Profile="(Default)">True</Value>
     </Setting>
     <Setting Name="EnableSendingIPAndIDWithEveryMessage" Type="System.Boolean" Scope="Application">
-      <Value Profile="(Default)">True</Value>
+      <Value Profile="(Default)">False</Value>
     </Setting>
   </Settings>
 </SettingsFile>
